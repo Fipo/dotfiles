@@ -8,4 +8,3 @@ export NVM_DIR="$HOME/.nvm"
 
 alias config='/usr/local/bin/git --git-dir=/Users/fipo/.cfg/ --work-tree=/Users/fipo'
 
-source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
